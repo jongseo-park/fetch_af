@@ -2,6 +2,9 @@
 
 `fetchaf uniprotID`
 
+<br/>
+
+<br/>
 
 ### **1. Script modification**
 
@@ -11,7 +14,7 @@
 
 <br/>
 
-### **2. Set the pymolrc
+### **2. Set the pymolrc**
 
 1) Open PyMOL
 
@@ -26,8 +29,9 @@
 
 3) Restart PyMOL
 
+<br/>
 
-### **3. Fetch
+### **3. Fetch**
 
 Check the uniprot ID you want, and enter the command in PyMOL as follows.
 
