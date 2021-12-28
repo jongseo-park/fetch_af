@@ -12,6 +12,10 @@
 
     py_direc = '/opt/plugins/'
 
+for windows ...
+
+    py_direc = 'C:\\Users\\Username'
+
 <br/>
 
 ### **2. Set the pymolrc**
@@ -24,10 +28,12 @@
 
     run /path/to/script
 
-    eg. 
+eg. 
+
     run /opt/plugins/fetch_af.py
 
-    for windows ...
+for windows ...
+
     run C:\\Users\\Username\\fetch_af.py
 
 3) Restart PyMOL
