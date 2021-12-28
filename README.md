@@ -27,6 +27,9 @@
     eg. 
     run /opt/plugins/fetch_af.py
 
+    for windows ...
+    run C:\\Users\\Username\\fetch_af.py
+
 3) Restart PyMOL
 
 <br/>
